@@ -9,3 +9,4 @@ google-generativeai
 openai
 python-jose
 passlib[bcrypt]
+pydantic-settings
